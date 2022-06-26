@@ -1,0 +1,5 @@
+cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=ninja -DCMAKE_C_COMPILER=arm-none-eabi-gcc -DCMAKE_CXX_COMPILER=arm-none-eabi-g++ -G Ninja -S /home/ismoil/CLionProjects/stm32_temp_sensor -B /home/ismoil/CLionProjects/stm32_temp_sensor/cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ismoil/CLionProjects/stm32_temp_sensor/cmake-build-debug

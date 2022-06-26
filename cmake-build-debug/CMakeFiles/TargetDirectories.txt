@@ -1,0 +1,3 @@
+/home/ismoil/CLionProjects/stm32_temp_sensor/cmake-build-debug/CMakeFiles/stm32_temp_sensor.elf.dir
+/home/ismoil/CLionProjects/stm32_temp_sensor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ismoil/CLionProjects/stm32_temp_sensor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
